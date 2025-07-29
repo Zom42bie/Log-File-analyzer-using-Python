@@ -1,0 +1,6 @@
+Jul 25 12:00:01 server sshd[12345]: Failed password for root from 192.168.1.2 port 22 ssh2
+Jul 25 12:00:05 server sshd[12346]: Failed password for root from 192.168.1.2 port 22 ssh2
+Jul 25 12:00:10 server sshd[12347]: Failed password for root from 192.168.1.2 port 22 ssh2
+Jul 25 12:00:15 server sshd[12348]: Failed password for root from 192.168.1.2 port 22 ssh2
+Jul 25 12:00:20 server sshd[12349]: Failed password for root from 192.168.1.2 port 22 ssh2
+Jul 25 12:00:25 server sshd[12350]: Failed password for root from 198.51.100.9 port 22 ssh2
